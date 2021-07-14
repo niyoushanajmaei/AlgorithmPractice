@@ -1,3 +1,0 @@
-C:/Users/Nioosha/Desktop/ACM Practice/Graph/DFS/cmake-build-debug/CMakeFiles/DFS.dir
-C:/Users/Nioosha/Desktop/ACM Practice/Graph/DFS/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Nioosha/Desktop/ACM Practice/Graph/DFS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
