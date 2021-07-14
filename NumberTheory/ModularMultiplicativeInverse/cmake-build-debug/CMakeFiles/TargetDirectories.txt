@@ -1,3 +1,0 @@
-C:/Users/Nioosha/Desktop/ACM Practice/Number Theory/ModularMultiplicativeInverse/cmake-build-debug/CMakeFiles/ModularMultiplicativeInverse.dir
-C:/Users/Nioosha/Desktop/ACM Practice/Number Theory/ModularMultiplicativeInverse/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Nioosha/Desktop/ACM Practice/Number Theory/ModularMultiplicativeInverse/cmake-build-debug/CMakeFiles/rebuild_cache.dir
