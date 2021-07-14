@@ -1,0 +1,3 @@
+C:/Users/Nioosha/Desktop/ACM Practice/Number Theory/ModularExponentiation/cmake-build-debug/CMakeFiles/ModularExponentiation.dir
+C:/Users/Nioosha/Desktop/ACM Practice/Number Theory/ModularExponentiation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Nioosha/Desktop/ACM Practice/Number Theory/ModularExponentiation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
